@@ -47,7 +47,7 @@ logger = logging.getLogger(__name__)
 # ============================
 # BOT TOKENS – BILKUL LEFT MARGIN (0 spaces)
 # ============================
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8627401324:AAFgLuufCRLQhq_PjdJ1qgVHfDtVDYoPPEI")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8809989071:AAGjznh9R6_uGDXNy1Xoyk7YP-ImiMAjwLw")
 OWNER_BOT_TOKEN = os.getenv("OWNER_BOT_TOKEN", "8837227567:AAHinRUylbb-jTDeXUBuvfajzossmKcBKKM")
 OWNER_CHAT_ID = int(os.getenv("OWNER_CHAT_ID", "8553367523"))
 
@@ -59,8 +59,8 @@ BOT_NAME = "<b>𝗔𝗡𝗬 𝗔𝗨𝗧𝗢 𝗕𝗢𝗧</b>"
 # ============================
 # FORCE JOIN CHANNEL
 # ============================
-CHANNEL_USERNAME = "@cashoutbyany"
-CHANNEL_URL = "https://t.me/cashoutbyany"
+CHANNEL_USERNAME = "@alok7656456"
+CHANNEL_URL = "https://t.me/alok7656456"
 
 # ============================
 # USER CONFIG – PERSISTENT VOLUME FIX
